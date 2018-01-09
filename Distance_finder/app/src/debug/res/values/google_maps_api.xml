@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=27:23:66:52:08:B8:78:6A:37:03:AD:73:D8:70:DB:EB:57:08:A3:38%3Bcom.example.suraj.distance_finder
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    27:23:66:52:08:B8:78:6A:37:03:AD:73:D8:70:DB:EB:57:08:A3:38
+
+    SHA-1 certificate fingerprint:
+    27:23:66:52:08:B8:78:6A:37:03:AD:73:D8:70:DB:EB:57:08:A3:38
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAH4FCWupROcfOONq5lQ0FKvDCA-HvENOc</string>
+</resources>
